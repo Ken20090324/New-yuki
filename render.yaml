@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ARUMA.σ
+    name: デスティニーガンダム
     env: python
     region: Oregon
     plan: free
