@@ -1,6 +1,7 @@
 services:
   - type: web
-    name: BAEL
+    name: Barubatosu
+  
     env: python
     region: Oregon
     plan: free
